@@ -1,0 +1,9 @@
+Building StacyCoin
+
+See doc/readme-qt.rst for instructions on building StacyCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of StacyCoin.
+
+See doc/build-*.txt for instructions on building stacycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of StacyCoin.
